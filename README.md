@@ -1,34 +1,76 @@
-#📊 Customer Trend Analysis
-🔍 Overview
+<div align="center">
 
-This project analyzes customer purchasing behavior to uncover trends and patterns using an end-to-end data analytics workflow. It showcases data cleaning, SQL-based analysis, and dashboard visualization.
+<h1>📊 Customer Trend Analysis</h1>
 
-🛠️ Tech Stack
+<p>
+This project analyzes customer purchasing behavior to uncover trends and patterns using an end-to-end data analytics workflow.
+It demonstrates data cleaning, SQL-based analysis, database integration, and dashboard visualization using industry-standard tools.
+</p>
 
-🐍 Python (Jupyter Notebook) – Data cleaning & exploration
+</div>
 
-🗄️ PostgreSQL – Data storage & querying
+<br/>
 
-🧮 SQL – Aggregations, window functions, ranking
+<h2>📘 Table of Contents</h2>
+<ul>
+  <li><a href="#about">⭐ About the Project</a></li>
+  <li><a href="#tech">🛠️ Tech Stack</a></li>
+  <li><a href="#workflow">🔄 Workflow</a></li>
+  <li><a href="#analysis">📌 Key Analysis</a></li>
+  <li><a href="#contact">🤝 Contact</a></li>
+</ul>
 
-📊 Power BI – Interactive dashboards
+<hr/>
 
-🔄 Workflow
+<h2 id="about">⭐ About the Project</h2>
+<p>
+The Customer Trend Analysis project focuses on understanding customer behavior and purchasing patterns from transactional data.
+The dataset is cleaned and analyzed using Python, stored and queried in PostgreSQL, and visualized through interactive Power BI dashboards
+to generate actionable business insights.
+</p>
 
-📥 Cleaned and explored raw CSV data using Python
+<hr/>
 
-🏗️ Loaded cleaned data into PostgreSQL
+<h2 id="tech">🛠️ Tech Stack</h2>
+<ul>
+  <li>🐍 <b>Python (Jupyter Notebook)</b> – Data cleaning & exploration</li>
+  <li>🗄️ <b>PostgreSQL</b> – Data storage & querying</li>
+  <li>🧮 <b>SQL</b> – Aggregations, window functions, ranking</li>
+  <li>📊 <b>Power BI</b> – Interactive dashboards</li>
+</ul>
 
-🧠 Performed analytical SQL queries
+<hr/>
 
-🔗 Connected PostgreSQL to Power BI
+<h2 id="workflow">🔄 Workflow</h2>
+<ol>
+  <li>📥 Cleaned and explored raw CSV data using Python</li>
+  <li>🏗️ Loaded cleaned data into PostgreSQL</li>
+  <li>🧠 Performed analytical SQL queries to extract insights</li>
+  <li>🔗 Connected PostgreSQL to Power BI</li>
+  <li>📈 Built an interactive dashboard to visualize customer trends</li>
+</ol>
 
-📈 Built an interactive dashboard to visualize trends
+<hr/>
 
-📌 Key Analysis
+<h2 id="analysis">📌 Key Analysis</h2>
+<ul>
+  <li>🛍️ Top purchased products by category</li>
+  <li>👥 Customer purchasing behavior and trend analysis</li>
+  <li>💰 Category-level performance and revenue insights</li>
+  <li>🎯 Impact of discounts and subscriptions on purchases</li>
+</ul>
 
-🛍️ Top purchased products by category
+<hr/>
 
-👥 Customer purchasing behavior and trends
+<h2 id="contact">🤝 Contact</h2>
+<p>
+<b>Swaraj Chauhan</b><br/>
+Data Analyst | SQL | Power BI | Python | PostgreSQL
+</p>
 
-💰 Category-level performance and revenue insights
+<p>
+Project Repository: 
+<a href="https://github.com/your-username/Customer-Trend-Analysis">
+https://github.com/your-username/Customer-Trend-Analysis
+</a>
+</p>
