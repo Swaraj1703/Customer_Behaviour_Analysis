@@ -1,4 +1,4 @@
-📊 Customer Trend Analysis
+#📊 Customer Trend Analysis
 🔍 Overview
 
 This project analyzes customer purchasing behavior to uncover trends and patterns using an end-to-end data analytics workflow. It showcases data cleaning, SQL-based analysis, and dashboard visualization.
