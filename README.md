@@ -70,7 +70,7 @@ Data Analyst | SQL | Power BI | Python | PostgreSQL
 
 <p>
 Project Repository: 
-<a href="https://github.com/your-username/Customer-Trend-Analysis">
-https://github.com/your-username/Customer-Trend-Analysis
+<a href="https://github.com/Swaraj1703/Customer_Behaviour_Analysis">
+https://github.com/Swaraj1703/Customer-Trend-Analysis
 </a>
 </p>
